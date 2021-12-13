@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 
-- 🔭 I’m currently working on [Nexum] (https://github.com/joaopedrov0/nexum)
+- 🔭 I’m currently working on <a href="https://github.com/joaopedrov0/nexum">Nexum</a>
 
 - 🌱 I’m currently learning **Node.js,**
 
