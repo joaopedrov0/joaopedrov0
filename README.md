@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7762
-Fork on GitHub
-1577
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 - 🔭 I’m currently working on [Nexum](https://github.com/joaopedrov0/nexum)
 
