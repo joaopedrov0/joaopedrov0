@@ -27,5 +27,4 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 [![card](https://github-readme-stats.vercel.app/api?username=joaopedrov0&theme=dark&show_icons=true)](https://github.com/joaopedrov0/)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrov0&show_icons=true&theme=dark&title_color=ffffff&text_color=ece9e9&bg_color=2b2b2b&hide_border=true&locale=pt-br&layout=compact" alt="joaopedrov0" /></p>
+[![joaopedrov0](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrov0&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
