@@ -11,6 +11,7 @@
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black)
 ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
@@ -27,4 +28,4 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 [![card](https://github-readme-stats.vercel.app/api?username=joaopedrov0&theme=dark&show_icons=true)](https://github.com/joaopedrov0/)
-[![joaopedrov0](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrov0&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
+[![joaopedrov0](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrov0&hide=html&layout=compact&theme=dark)](https://github.com/joaopedrov0/)
