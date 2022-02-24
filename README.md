@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 
-- 🔭 I’m currently working on <a href="https://github.com/joaopedrov0/nexum">Nexum</a>
+<!--- 🔭 I’m currently working on <a href="https://github.com/joaopedrov0/nexum">Nexum</a>-->
 
-- 🌱 I’m currently learning **Node.js,**
+<!-- - 🌱 I’m currently learning **Node.js,** -->
 
 - 📫 How to reach me **joaopedrov0.dev@gmail.com**
 
@@ -13,7 +13,7 @@
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 [![image](https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/joaopedrov0/)
 [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/joaopedrov0)
-
+[![image](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-895aa9227/)
 
 
 <h3 align="left">Languages and Tools:</h3>
